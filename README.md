@@ -44,7 +44,7 @@ Currently, I focus on automating workflows, full-stack development with **Larave
 ---
 
 ### 🌱 Education & Interests
-* **Economics Student (6th Sem):** Universidad Central de Venezuela (UCV) - *Focus on Macroeconomics & Data*.
+* **Economics Student (8th Sem):** Universidad Central de Venezuela (UCV) - *Focus on Macroeconomics & Data*.
 * **TSU in Informatics:** Universidad Nacional Experimental de la Gran Caracas (UNEXCA) - *Graduating July 2025*.
 * **Interests:** Impact Evaluation, Open Source Tech, Socioeconomic Analysis.
 
